@@ -3,5 +3,6 @@
 set -xe
 
 CFLAGS="-Wall -Wextra "
+CURSES_FLAG="-lcurses"
 
-gcc $CFLAGS -o te ./te.c
+gcc $CFLAGS $CURSES_FLAG -o te ./te.c
