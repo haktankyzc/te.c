@@ -1,4 +1,4 @@
-Basic text editor written in C for educational purposes (to learn how it is works)
+Basic text editor written in C for educational purposes (to learn how it is works) (it is full of copies from internet :( )
 
 
 
